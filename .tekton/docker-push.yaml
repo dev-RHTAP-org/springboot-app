@@ -31,7 +31,7 @@ spec:
     - name: image-expires-after
       value: 5d
     - name: output-image
-      value: quay.io/quayadmin/sb-app:{{revision}}
+      value: quay-4j5mf.apps.cluster-4j5mf.sandbox3002.opentlc.com/quayadmin/sb-app:{{revision}}
     - name: path-context
       value: .
     - name: revision
